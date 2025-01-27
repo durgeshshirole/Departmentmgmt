@@ -1,5 +1,5 @@
 # this is a sample repo
 
-change 1 
+change 1
 
-this is  a change from avadhut 
+this is a change from vedanti
